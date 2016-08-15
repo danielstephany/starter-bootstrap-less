@@ -1,5 +1,5 @@
-<h1>starter-bootstrap-sass</h1>
-<h3>This is a starter structure for a project using sass, bootstrap, jquery, and jquery touch events.</h3>
+<h1>starter-bootstrap-less</h1>
+<h3>This is a starter structure for a project using less, bootstrap, jquery, and jquery touch events.</h3>
 <ul>
 <li>To start a project navigate to the folder with gulpFile within using your terminal and type in (gulp) to start 
 your server and watch your files. Then go to localhost:3000 in your browser of choice to view your project live.</li>
